@@ -1,10 +1,11 @@
 body{
   height: 1000px;
-  width: 500px;
+  width: 1000px;
 }
 header, footer{
   height: 50px;
   width: inherit;
+  background-color: grey;
 }
 #first{
   height: 300px;
@@ -16,6 +17,6 @@ header, footer{
   width: inherit;
 }
 p{
-  font-size: 24px;
+  font-size: 18px;
   margin: 10px;
 }
